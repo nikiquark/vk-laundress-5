@@ -1,0 +1,19 @@
+{
+  "name": "vk-laundress-5",
+  "version": "1.0.0",
+  "description": "Back-end for vk-laundress-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikiquark/vk-laundress-5.git"
+  },
+  "author": "Nikita Okhotnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikiquark/vk-laundress-5/issues"
+  },
+  "homepage": "https://github.com/nikiquark/vk-laundress-5#readme"
+}
